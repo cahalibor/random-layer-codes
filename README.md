@@ -1,6 +1,6 @@
 # random-layer-codes
 
-This repository contains supporting data and a Python script for generating layer-code stabilizers for the paper *Layer codes as partially self-correcting quantum memories* ([arXiv:2510.06659](https://arxiv.org/abs/2510.06659)).
+This repository contains supporting data and a Python script for generating layer-code stabilizers for the paper *Layer codes as partially self-correcting quantum memories* ([Phys. Rev. Lett. 136, 210601](https://doi.org/10.1103/x4z2-f4gg); [arXiv:2510.06659](https://arxiv.org/abs/2510.06659)).
 
 ## License
 
@@ -13,13 +13,18 @@ This repository contains supporting data and a Python script for generating laye
 If you use this repository in your work, please cite:
 
 ```
-@misc{gucaha2025layercodespartiallyselfcorrecting,
-      title={Layer codes as partially self-correcting quantum memories}, 
-      author={Shouzhen Gu and Libor Caha and Shin Ho Choe and Zhiyang He and Aleksander Kubica and Eugene Tang},
-      year={2025},
-      eprint={2510.06659},
-      archivePrefix={arXiv},
-      primaryClass={quant-ph},
-      url={https://arxiv.org/abs/2510.06659}, 
+@article{x4z2-f4gg,
+  title = {Layer Codes as Partially Self-Correcting Quantum Memories},
+  author = {Gu, Shouzhen and Caha, Libor and Choe, Shin Ho and He, Zhiyang and Kubica, Aleksander and Tang, Eugene},
+  journal = {Phys. Rev. Lett.},
+  volume = {136},
+  issue = {21},
+  pages = {210601},
+  numpages = {7},
+  year = {2026},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/x4z2-f4gg},
+  url = {https://link.aps.org/doi/10.1103/x4z2-f4gg}
 }
 ```
